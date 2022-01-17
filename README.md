@@ -8,7 +8,7 @@
 </div>
   
 <br>
-
+<!--
 <a href="https://www.linkedin.com/in/igor-silva-0a7757216/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF" target="_blank">>
 </a>
@@ -21,3 +21,4 @@
   <img src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF" target="_blank">>
 </a>
 
+-->
